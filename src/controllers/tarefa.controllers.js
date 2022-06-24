@@ -36,5 +36,5 @@ module.exports = {
   createTarefaController,
   updateTarefaController,
   deleteTarefaController,
-  deleteTarefaController
+  deleteTarefaController,
 };
